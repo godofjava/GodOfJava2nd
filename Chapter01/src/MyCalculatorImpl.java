@@ -21,7 +21,6 @@ public class MyCalculatorImpl {
         int b = 0;
         while (flag) {
             showMenu();
-            System.out.println("git commit 테스트");
             command = sc.nextInt();
             switch (command) {
                 case 0:
