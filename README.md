@@ -36,3 +36,23 @@ public class Calculator {
     }
 }
 ```
+
+* 04 Data Type
+> Variables of Java
+> - Java has 4 types of variables and each of them has different range of scope and usability. <br>
+```python
+# === 4 Types of Variables ===
+1. Local variables
+2. Parameters
+3. Instance Variables
+4. Class Variables
+```
+> Data Types
+> - Primitive Data Type vs Reference Data Type
+```python
+# === 4 Types of Variables ===
+1. Local variables
+2. Parameters
+3. Instance Variables
+4. Class Variables
+```
